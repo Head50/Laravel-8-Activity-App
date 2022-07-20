@@ -1,5 +1,5 @@
 # Laravel-8-Activity-App
-Create Simple App using laravel 8
+Create Simple App using laravel 8 Using JWT Token
 
 Ini adalah simple activity app dengan dua tabel yaitu table users dan activities yang berelasi one to many
 
